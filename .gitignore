@@ -1,0 +1,8 @@
+__pycache_-
+db.sqlite3
+/static
+/media
+venv
+.venv
+.idea
+.vscode
